@@ -1,6 +1,6 @@
 img {
   border-color: black;
-  max-width: 15rem;
+  width: 4rem;
   height: auto;
 }
 
@@ -15,12 +15,13 @@ body {
 }
 
 .carousel-control-next,
-.carousel-control-prev {
+.carousel-control-prev
+  {
   filter: invert(100%);
 }
 
 .spacer {
-  margin:0;
-  padding:0;
-  height:40px;
+  margin: 0;
+  padding: 0;
+  height: 40px;
 }
